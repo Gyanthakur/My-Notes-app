@@ -1,5 +1,5 @@
 
-<div align="center" hight="40px" width="40px">
+<div align="center" hight="30px" width="30px">
   
 ![MyNotesLogo](https://github.com/user-attachments/assets/3ffaa3a4-a209-495e-93a7-bbac4ea2ffe3)
 
@@ -129,7 +129,7 @@ Contact Us:  📲<a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%
 
 ## Thank you for checking out the My Notes  project! Happy coding! 😊
 
-<div align="center">
+<div align="center" hight="30px" width="30px">
   
 ![mn](https://github.com/user-attachments/assets/4438a370-013b-4ed1-8216-f61fd7092ddc)
 
