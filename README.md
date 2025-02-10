@@ -1,7 +1,8 @@
 
-<div align="center">
+<div align="center" hight="40px" width="40px">
   
-![mn](https://github.com/user-attachments/assets/4438a370-013b-4ed1-8216-f61fd7092ddc)
+![MyNotesLogo](https://github.com/user-attachments/assets/3ffaa3a4-a209-495e-93a7-bbac4ea2ffe3)
+
 
 </div>
 
