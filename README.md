@@ -129,9 +129,9 @@ Contact Us:  📲<a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%
 
 ## Thank you for checking out the My Notes  project! Happy coding! 😊
 
-<div align="center" hight="15px" width="15px">
+<div align="center">
   
-![mn](https://github.com/user-attachments/assets/4438a370-013b-4ed1-8216-f61fd7092ddc)
+  <img src="https://github.com/user-attachments/assets/4438a370-013b-4ed1-8216-f61fd7092ddc" alt="mn" height="150px" width="150px">
 
 </div>
 
