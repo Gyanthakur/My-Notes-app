@@ -12,7 +12,7 @@ import EmptyCard from "../../Components/EmptyCard/EmptyCard"
 
 const Home = () => {
   const { currentUser, loading, errorDispatch } = useSelector(
-    (state) => state.user
+    (state) => state?.user
   )
 
   const [userInfo, setUserInfo] = useState(null)
@@ -209,7 +209,7 @@ const Home = () => {
           noteData={openAddEditModal.data}
           type={openAddEditModal.type}
           getAllNotes={getAllNotes}
-          userInfo={currentUser.user}
+          userInfo={currentUser?.user}
         />
       </Modal>
     </>
