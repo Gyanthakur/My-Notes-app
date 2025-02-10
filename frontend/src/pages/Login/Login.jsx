@@ -72,15 +72,16 @@ const Login = () => {
     //Login API
     try {
       dispatch(signInStart());
-  
+	  
       const res = await axios.post(
-        `${import.meta.env.VITE_BACKEND_URL}`+"/api/auth/signin",
-        { email, password },
-        { withCredentials: true }
-      );
-  
-      if (res.data.success === false) {
-        toast.error(res.data.message);
+		  `${import.meta.env.VITE_BACKEND_URL}`+"/api/auth/signin",
+		  { email, password },
+		  { withCredentials: true }
+		);
+		
+		if (res.data.success === false) {
+			toast.error(res.data.message);
+			console.log(import.meta.env.VITE_BACKEND_URL);
         dispatch(signInFailure(res.data.message));
         return;
       }
