@@ -1,9 +1,6 @@
 
-<div align="center" hight="30px" width="30px">
-  
-![MyNotesLogo](https://github.com/user-attachments/assets/3ffaa3a4-a209-495e-93a7-bbac4ea2ffe3)
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ffaa3a4-a209-495e-93a7-bbac4ea2ffe3" alt="MyNotesLogo" height="30px" width="30px">
 </div>
 
 
